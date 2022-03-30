@@ -1,0 +1,21 @@
+html, body {
+    background-color: black;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: black;
+}
+
+#info {
+    background-color: black;
+    color: white;
+	z-index: 1;
+    position: fixed;
+    left: 50%;
+    top: 30%;
+    transform: translateX(-50%);
+}
