@@ -3,7 +3,6 @@ import "./styles.css";
 
 import {
   BoxGeometry,
-  CapsuleGeometry,
   EdgesGeometry,
   LineBasicMaterial,
   LineSegments,
